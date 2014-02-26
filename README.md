@@ -3,6 +3,10 @@ jquery.easyPaginate
 
 jQuery plugin to paginate anything with cool effect (or not)
 
+Documentation
+---------------------
+Check out the [documentation](http://st3ph.github.io/jquery.easyPaginate) to find out how easyPaginate works.
+
 About
 ---------------------
 easyPaginate is a [jQuery](http://jquery.com) plugin who allowed you to paginate anything with some built in cool effect
