@@ -1,0 +1,12 @@
+{
+  "name": "jquery.easyPaginate",
+  "version": "1.2.0",
+  "description": "jQuery.easyPaginate is a plugin to paginate pretty anything, like lists, links etc...",
+  "main": "lib/jquery.easyPaginate.js",
+  "author": "Stephane Litou <contact@stephane-litou.com>",
+  "license": "MIT",
+  "homepage": "http://st3ph.github.io/jquery.easyPaginate",
+  "dependencies": {
+    "jquery": ">=1.8 <=3.2"
+  }
+}
